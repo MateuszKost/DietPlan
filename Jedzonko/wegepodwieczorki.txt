@@ -1,0 +1,69 @@
+* WegePodwieczorek_1 270
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250g
+
+* WegePodwieczorek_2 285
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250g
+
+* WegePodwieczorek_3 300
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250g
+
+* WegePodwieczorek_4 330
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250g
+
+* WegePodwieczorek_5 337.5
+- skladnik_1 100 g
+- skladnik_2 100 ml
+- skladnik_3 250g
+
+* WegePodwieczorek_6 345
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250g
+
+* WegePodwieczorek_7 360
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250g
+
+* WegePodwieczorek_8 375
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250g
+
+* WegePodwieczorek_9 390
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250g
+
+* WegePodwieczorek_10 405
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250g
+
+* WegePodwieczorek_11 435
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250g
+
+* WegePodwieczorek_12 462
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250g
+
+* WegePodwieczorek_13 480
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250g
+
+* WegePodwieczorek_14 510
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250g

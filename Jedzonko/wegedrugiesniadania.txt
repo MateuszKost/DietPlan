@@ -1,0 +1,69 @@
+* WegeDrugieSniadanie_1 360
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250 g
+
+* WegeDrugieSniadanie_2 380
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250 g
+
+* WegeDrugieSniadanie_3 400
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250 g
+
+* WegeDrugieSniadanie_4 440
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250 g
+
+* WegeDrugieSniadanie_5 450
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250 g
+
+* WegeDrugieSniadanie_6 460
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250 g
+
+* WegeDrugieSniadanie_7 480
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250 g
+
+* WegeDrugieSniadanie_8 500
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250 g
+
+* WegeDrugieSniadanie_9 520
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250 g
+
+* WegeDrugieSniadanie_10 540
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250 g
+
+* WegeDrugieSniadanie_11 580
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250 g
+
+* WegeDrugieSniadanie_12 616
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250 g
+
+* WegeDrugieSniadanie_13 640
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250 g
+
+* WegeDrugieSniadanie_14 680
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250 g

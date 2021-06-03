@@ -1,0 +1,129 @@
+* Kolacja_1 360
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250 g
+
+* Kolacja_2 380
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250 g
+
+* Kolacja_3 400
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250 g
+
+* Kolacja_4 440
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250 g
+
+* Kolacja_5 450
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250 g
+
+* Kolacja_6 460
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250 g
+
+* Kolacja_7 480
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250 g
+
+* Kolacja_8 500
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250 g
+
+* Kolacja_9 520
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250 g
+
+* Kolacja_10 540
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250 g
+
+* Kolacja_11 580
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250 g
+
+* Kolacja_12 616
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250 g
+
+* Kolacja_13 640
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250 g
+
+* Kolacja_14 680
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250 g
+
+* Kolacja_15 475
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250 g
+
+* Kolacja_16 550
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250 g
+
+* Kolacja_17 562.5
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250 g
+
+* Kolacja_18 575
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250 g
+
+* Kolacja_19 600
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250 g
+
+* Kolacja_20 625
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250 g
+
+* Kolacja_21 650
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250 g
+
+* Kolacja_22 675
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250 g
+
+* Kolacja_23 725
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250 g
+
+* Kolacja_24 770
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250 g
+
+* Kolacja_25 800
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250 g
+
+* Kolacja_26 850
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250 g

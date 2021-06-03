@@ -1,0 +1,5 @@
+- jajko 40
+- jablko 20
+- kielbasa 100
+- gruszka 30
+- pomarancza 30

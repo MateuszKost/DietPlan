@@ -1,0 +1,129 @@
+* WegeKolacja_1 360
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250 g
+
+* WegeKolacja_2 380
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250 g
+
+* WegeKolacja_3 400
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250 g
+
+* WegeKolacja_4 440
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250 g
+
+* WegeKolacja_5 450
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250 g
+
+* WegeKolacja_6 460
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250 g
+
+* WegeKolacja_7 480
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250 g
+
+* WegeKolacja_8 500
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250 g
+
+* WegeKolacja_9 520
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250 g
+
+* WegeKolacja_10 540
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250 g
+
+* WegeKolacja_11 580
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250 g
+
+* WegeKolacja_12 616
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250 g
+
+* WegeKolacja_13 640
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250 g
+
+* WegeKolacja_14 680
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250 g
+
+* WegeKolacja_15 475
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250 g
+
+* WegeKolacja_16 550
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250 g
+
+* WegeKolacja_17 562.5
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250 g
+
+* WegeKolacja_18 575
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250 g
+
+* WegeKolacja_19 600
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250 g
+
+* WegeKolacja_20 625
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250 g
+
+* WegeKolacja_21 650
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250 g
+
+* WegeKolacja_22 675
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250 g
+
+* WegeKolacja_23 725
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250 g
+
+* WegeKolacja_24 770
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250 g
+
+* WegeKolacja_25 800
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250 g
+
+* WegeKolacja_26 850
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250 g

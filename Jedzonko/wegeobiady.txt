@@ -1,0 +1,134 @@
+* WegeObiad_1 475
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250 g
+
+* WegeObiad_2 550
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250 g
+
+* WegeObiad_3 562.5
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250 g
+
+* WegeObiad_4 575
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250 g
+
+* WegeObiad_5 600
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250 g
+
+* WegeObiad_6 625
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250 g
+
+* WegeObiad_7 650
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250 g
+
+* WegeObiad_8 675
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250 g
+
+* WegeObiad_9 725
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250 g
+
+* WegeObiad_10 770
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250 g
+
+* WegeObiad_11 800
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250 g
+
+* WegeObiad_12 850
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250 g
+
+* WegeObiad_13 450
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250 g
+
+* WegeObiad_14 500
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250 g
+
+* WegeObiad_15 540
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250 g
+
+* WegeObiad_16 570
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250 g
+
+* WegeObiad_17 660
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250 g
+
+* WegeObiad_18 675
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250 g
+
+* WegeObiad_19 690
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250 g
+
+* WegeObiad_20 720
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250 g
+
+* WegeObiad_21 750
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250 g
+
+* WegeObiad_22 780
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250 g
+
+* WegeObiad_23 810
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250 g
+
+* WegeObiad_24 870
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250 g
+
+* WegeObiad_25 924
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250 g
+
+* WegeObiad_26 960
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250 g
+
+* WegeObiad_27 1020
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250 g

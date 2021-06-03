@@ -1,0 +1,69 @@
+* Podwieczorek_1 270
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250g
+
+* Podwieczorek_2 285
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250g
+
+* Podwieczorek_3 300
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250g
+
+* Podwieczorek_4 330
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250g
+
+* Podwieczorek_5 337.5
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250g
+
+* Podwieczorek_6 345
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250g
+
+* Podwieczorek_7 360
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250g
+
+* Podwieczorek_8 375
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250g
+
+* Podwieczorek_9 390
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250g
+
+* Podwieczorek_10 405
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250g
+
+* Podwieczorek_11 435
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250g
+
+* Podwieczorek_12 462
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250g
+
+* Podwieczorek_13 480
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250g
+
+* Podwieczorek_14 510
+- Skladnik_1 100 g
+- Skladnik_2 100 ml
+- Skladnik_3 250g
